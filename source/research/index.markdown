@@ -1,9 +1,8 @@
 ---
 layout: page
-title: "Projects"
+title: "Research"
 comments: false
 sharing: false
 footer: false
 ---
-
-More coming soon...
+Research info coming soon...
