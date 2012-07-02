@@ -1,11 +1,33 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>
+            http://npisenti.github.com/blog/2012/07/announcing-the-official-launch-of-psiqed/
+        </loc>
+        <lastmod>2012-07-02T11:24:58-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://npisenti.github.com/about/</loc>
+        <lastmod>2012-07-02T13:09:30-04:00</lastmod>
+    </url>
+    <url>
         <loc>http://npisenti.github.com/blog/archives/</loc>
-        <lastmod>2012-07-02T10:28:46-04:00</lastmod>
+        <lastmod>2012-07-02T12:59:06-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://npisenti.github.com/blog/categories/</loc>
+        <lastmod>2012-07-02T12:38:40-04:00</lastmod>
     </url>
     <url>
         <loc>http://npisenti.github.com/</loc>
-        <lastmod>2012-07-02T10:28:46-04:00</lastmod>
+        <lastmod>2012-07-02T12:19:59-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://npisenti.github.com/projects/</loc>
+        <lastmod>2012-07-02T12:12:29-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://npisenti.github.com/research/</loc>
+        <lastmod>2012-07-02T12:13:03-04:00</lastmod>
     </url>
 </urlset>

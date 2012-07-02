@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[PsiQED]]></title>
-  <link href="http://npisenti.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: misc | PsiQED]]></title>
+  <link href="http://npisenti.github.com/blog/categories/misc/atom.xml" rel="self"/>
   <link href="http://npisenti.github.com/"/>
   <updated>2012-07-02T13:13:52-04:00</updated>
   <id>http://npisenti.github.com/</id>
@@ -18,7 +18,7 @@
     <link href="http://npisenti.github.com/blog/2012/07/announcing-the-official-launch-of-psiqed/"/>
     <updated>2012-07-02T11:13:00-04:00</updated>
     <id>http://npisenti.github.com/blog/2012/07/announcing-the-official-launch-of-psiqed</id>
-    <content type="html"><![CDATA[<p>The title pretty much says it all &#8211; I&#8217;m finally launching a blog as I segue
+    <content type="html"><![CDATA[<p>The title pretty much says it all -- I'm finally launching a blog as I segue
 into the graduate lifestyle and start <a href="http://umdphysics.umd.edu/">PhD School</a> in August.</p>
 
 <p>I plan to post on a variety of topics (the only real criterion being things that
@@ -27,7 +27,7 @@ technology, and the occasional (software) hack. I also plan to write
 <a href="http://blog.learnstream.org/2012/01/weekly-review-through-december-19/">weekly reviews</a>
 to summarize and collect my thoughts on the week, however interesting or mundane they might be.</p>
 
-<p>That&#8217;s about it; stay tuned and check back. We&#8217;ll see if I can actually keep this up.</p>
+<p>That's about it; stay tuned and check back. We'll see if I can actually keep this up.</p>
 ]]></content>
   </entry>
   
