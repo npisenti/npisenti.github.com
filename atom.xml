@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[PsiQED]]></title>
+  <link href="http://npisenti.github.com/atom.xml" rel="self"/>
+  <link href="http://npisenti.github.com/"/>
+  <updated>2012-07-02T10:41:35-04:00</updated>
+  <id>http://npisenti.github.com/</id>
+  <author>
+    <name><![CDATA[Neal Pisenti]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
