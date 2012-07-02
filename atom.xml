@@ -4,7 +4,7 @@
   <title><![CDATA[PsiQED]]></title>
   <link href="http://npisenti.github.com/atom.xml" rel="self"/>
   <link href="http://npisenti.github.com/"/>
-  <updated>2012-07-02T10:52:55-04:00</updated>
+  <updated>2012-07-02T11:00:51-04:00</updated>
   <id>http://npisenti.github.com/</id>
   <author>
     <name><![CDATA[Neal Pisenti]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[test post yo]]></title>
+    <link href="http://npisenti.github.com/blog/2012/07/test-post-yo/"/>
+    <updated>2012-07-02T11:00:00-04:00</updated>
+    <id>http://npisenti.github.com/blog/2012/07/test-post-yo</id>
+    <content type="html"><![CDATA[<p>asdf</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[test]]></title>
