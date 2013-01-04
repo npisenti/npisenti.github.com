@@ -4,7 +4,7 @@
   <title><![CDATA[PsiQED]]></title>
   <link href="http://npisenti.github.com/atom.xml" rel="self"/>
   <link href="http://npisenti.github.com/"/>
-  <updated>2013-01-03T23:41:57-05:00</updated>
+  <updated>2013-01-03T23:48:04-05:00</updated>
   <id>http://npisenti.github.com/</id>
   <author>
     <name><![CDATA[Neal Pisenti]]></name>
@@ -22,7 +22,9 @@
 
 <p><a href="javascript:void(location.href='http://proxy-um.researchport.umd.edu/login?url='+location.href)">EZProxify</a></p>
 
-<p>Just drag that link to your address bar, and you&#8217;re set to go!</p>
+<p>Just drag that link to your address bar, and you&#8217;re set to go!
+If you find an article you want to read from home, just click the bookmarklet
+and you&#8217;ll be routed through the UMD libraries proxy server.</p>
 
 <p>[<a href="http://lib.guides.umd.edu/content.php?pid=233784&amp;sid=1934195">UMD libraries reference page</a>]</p>
 ]]></content>
