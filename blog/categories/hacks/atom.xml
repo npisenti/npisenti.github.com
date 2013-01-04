@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: hacks | PsiQED]]></title>
+  <link href="http://npisenti.github.com/blog/categories/hacks/atom.xml" rel="self"/>
+  <link href="http://npisenti.github.com/"/>
+  <updated>2013-01-03T23:36:39-05:00</updated>
+  <id>http://npisenti.github.com/</id>
+  <author>
+    <name><![CDATA[Neal Pisenti]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[EZProxify - UMD libraries proxy for reading articles at home]]></title>
+    <link href="http://npisenti.github.com/blog/2013/01/ezproxify-umd-libraries-proxy-for-reading-articles-at-home/"/>
+    <updated>2013-01-03T23:26:00-05:00</updated>
+    <id>http://npisenti.github.com/blog/2013/01/ezproxify-umd-libraries-proxy-for-reading-articles-at-home</id>
+    <content type="html"><![CDATA[<p>Here's a cool little bookmarklet you can use to access journal articles while outside of the UMD IP address block:</p>
+
+<p><a href="javascript:void(location.href='http://proxy-um.researchport.umd.edu/login?url='+location.href)">EZProxify</a></p>
+
+<p>Just drag that link to your address bar, and you're set to go!</p>
+
+<p>[<a href="http://lib.guides.umd.edu/content.php?pid=233784&amp;sid=1934195">UMD libraries reference page</a>]</p>
+]]></content>
+  </entry>
+  
+</feed>
