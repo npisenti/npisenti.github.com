@@ -4,7 +4,7 @@
   <title><![CDATA[PsiQED]]></title>
   <link href="http://npisenti.github.com/atom.xml" rel="self"/>
   <link href="http://npisenti.github.com/"/>
-  <updated>2013-01-05T12:28:29-05:00</updated>
+  <updated>2013-01-06T21:00:42-05:00</updated>
   <id>http://npisenti.github.com/</id>
   <author>
     <name><![CDATA[Neal Pisenti]]></name>
@@ -12,6 +12,24 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[A few new year's resolutions]]></title>
+    <link href="http://npisenti.github.com/blog/2013/01/a-few-new-years-resolutions/"/>
+    <updated>2013-01-06T20:48:00-05:00</updated>
+    <id>http://npisenti.github.com/blog/2013/01/a-few-new-years-resolutions</id>
+    <content type="html"><![CDATA[<p>Just gonna put them out there:</p>
+
+<ul>
+<li>Exercise more. I am looking at bikes on Craigslist, and am shooting for a stationary setup in our attic (w/ ubuntu box for netflix&#8230;). I also want to hack an arduino to record and track workout statistics.</li>
+<li>Actually write this blog. Let&#8217;s say 3 posts a week; might take a while to get warmed up however.</li>
+<li>Do a better job <em>studying</em> physics. I could be doing much more with material from my classes.</li>
+<li>Spin off some project ideas into something real and useable (ie, outside my imagination). Maybe try to turn one of them into something people would buy.</li>
+<li>Have fun!</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The Quals: Studying Strategy?]]></title>
